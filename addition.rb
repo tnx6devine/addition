@@ -1,1 +1,2 @@
-print "1 + 1 = " do 1+1 end
+x = 1 + 1
+print "1 + 1 = #{x}"
